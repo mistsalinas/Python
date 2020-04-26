@@ -1,0 +1,18 @@
+
+El saldo al día 25/4 es: 0
+
+Movimientos del día 25/4:
+Gasto de 50.0 en cerveza
+Ingreso de 100.0 en apuesta
+Saldo nuevo: 
+50.0
+
+
+El saldo al día 26/4 es: 50.0
+
+Movimientos del día 26/4:
+Gasto de 50.0 en cerveza
+Ingreso de 100.0 en apuesta
+Saldo nuevo: 
+50.0
+
