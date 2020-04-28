@@ -1,18 +1,25 @@
 
-El saldo al día 25/4 es: 0
+El saldo inicial al dÃ­a 27/4 es: 0
+Movimientos del dÃ­a 27/4:
+Gasto de 390.0 en Helado
+Ingreso de 20000.0 en Sueldo
+Saldo: 
+19610.0
+Gasto de 1.0 en prueba
+Saldo: 
+19609.0
+Ingreso de 1.0 en prueba
+Saldo: 
+19610.0
 
-Movimientos del día 25/4:
-Gasto de 50.0 en cerveza
-Ingreso de 100.0 en apuesta
-Saldo nuevo: 
-50.0
-
-
-El saldo al día 26/4 es: 50.0
-
-Movimientos del día 26/4:
-Gasto de 50.0 en cerveza
-Ingreso de 100.0 en apuesta
-Saldo nuevo: 
-50.0
-
+El saldo inicial al dÃ­a 28/4 es: 19610
+Movimientos del dÃ­a 28/4:
+Ingreso de 1.0 en probando dia nuevo
+Saldo: 
+19611.0
+Gasto de 1.0 en probando nuevo mensaje
+Saldo: 
+19610.0
+Ingreso de 1.0 en prueba
+Saldo: 
+19611.0
