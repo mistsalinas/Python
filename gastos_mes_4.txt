@@ -1,0 +1,27 @@
+
+El saldo inicial al día 28/4 es: 0
+Movimientos del día 28/4:
+Gasto de 80.0 en Gomitas
+Ingreso de 770.0 en Efectivo
+Ingreso de 1684.0 en Tarjeta Débito
+Saldo: 
+2374.0
+Ingreso de 2256.0 en Transferencia cuenta Galicia
+Saldo: 
+4630.0
+
+El saldo inicial al día 29/4 es: 4630
+Movimientos del día 29/4:
+Gasto de 693.96 en Metrogas
+Ingreso de 700.0 en Efectivo
+Saldo: 
+4636.0
+Gasto de 700.0 en Almacen
+Saldo: 
+3936.0
+
+El saldo inicial al día 30/4 es: 3936.0
+Movimientos del día 30/4:
+Gasto de 1300.0 en Compras
+Saldo: 
+2636.0

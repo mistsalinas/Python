@@ -159,7 +159,7 @@ def general(rta):
                 except FileNotFoundError: # Si no hay nada del mes anterior, arranco de 0
                     saldo_anterior = 0
             else:
-                saldo_anterior = int(lineas[-1][:-3]) # Si el archivo no está vacío traigo el saldo del día anterior
+                saldo_anterior = float(lineas[-1][:-3]) # Si el archivo no está vacío traigo el saldo del día anterior
             f.close()
         nombre_mes = meses[mes]
         print(f"Ingresos y gastos del mes de {nombre_mes}")
